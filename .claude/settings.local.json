@@ -5,7 +5,9 @@
       "Bash(flutter pub *)",
       "Bash(dart analyze *)",
       "Bash(flutter build *)",
-      "PowerShell(gh auth *)"
+      "PowerShell(gh auth *)",
+      "PowerShell(Get-ChildItem *)",
+      "PowerShell(winget list *)"
     ]
   }
 }

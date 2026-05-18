@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\DELL\\\\AndroidStudioProjects\\\\landingpage_yourdays\")",
+      "Bash(flutter pub *)",
+      "Bash(dart analyze *)",
+      "Bash(flutter build *)",
+      "PowerShell(gh auth *)"
+    ]
+  }
+}
